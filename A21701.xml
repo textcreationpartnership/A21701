@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A proclamation to admonishe all persons to forbeare traffique in the king of Spaynes countreys, with other aduertisementes for aunsweryng of a generall arrest made in the lowe countreys by the Duke of Alua</title>
+            <title>Proclamations. 1569-01-06</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1569</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21701</idno>
+            <idno type="STC">STC 8008</idno>
+            <idno type="STC">ESTC S112278</idno>
+            <idno type="EEBO-CITATION">99847534</idno>
+            <idno type="PROQUEST">99847534</idno>
+            <idno type="VID">12571</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21701)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 12571)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 455:75)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A proclamation to admonishe all persons to forbeare traffique in the king of Spaynes countreys, with other aduertisementes for aunsweryng of a generall arrest made in the lowe countreys by the Duke of Alua</title>
+                  <title>Proclamations. 1569-01-06</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+               </titleStmt>
+               <extent>3 sheets   </extent>
+               <publicationStmt>
+                  <publisher>In Powles Churchyarde by Richarde Iugge and Iohn Cawood, Printers to the Queenes Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1569]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from STC.</note>
+                  <note>At foot of sheet 3: Cum priuilegio Regiæ Maiestatis.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Foreign trade regulations --  England --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Netherlands --  Early works to 1800.</term>
+               <term>Netherlands --  Commerce --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:12571:1" rendition="simple:additions"/>
+            <head>¶ <hi>By the Queene. A proclamation to admoniſhe all perſons to forbeare traffique in the king of</hi> Spaynes countreys, with other aduertiſementes for aunſweryng of a generall arreſt made in the lowe countreys by the Duke of Alua.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HE Queenes maieſtie lately vnderſtandyng, that by a ſodaine commaun</hi>-dement of the Duke of Alua, as gouernour in the low countreys belonging to her ma<g ref="char:EOLhyphen"/>ieſties good brother the kyng of Spayne, al maner her marchaunts and other her ſub<g ref="char:EOLhyphen"/>iectes inhabytyng in the towne of Andwerpe, were arreſted &amp; put vnder garde of cer<g ref="char:EOLhyphen"/>taine companies of ſouldiours, and their goodes and marchaundizes alſo ſeaſed, about the xxix. of the laſt moneth of December, and ſince that time the like arreſt is made ge<g ref="char:EOLhyphen"/>nerally in the ſayde low countreys: A matter very ſtraunge, and heretofore in no tyme vſed betwixt the Crowne of Englande and the houſe of Burgondy, without ſome ma<g ref="char:EOLhyphen"/>ner of former conference precedyng, and intelligence had of the myndes and intentions of the Princes them ſelues on both ſydes. Wherevpon her maieſtie hath thought good, to geue warnyng to all her ſubiectes that haue any cauſe to traffique in any of the countreys of the ſaide kyng, that they ſhal forbeare the ſame, vntyll further knowledge may appeare of the mynde of the ſayde kyng hym ſelfe howe he ſhall alowe hereof: whiche beyng knowen to her maieſtie, ſhalbe notified to her ſayde ſubiectes. And in the meane tyme, her maieſtie wylleth and commaundeth all maner her officers, of all to wnes, burghes, cities, portes, and all other landyng places within any of her dominions, that they do cauſe all and euery perſon borne vnder any part of the obedience of the ſayd kyng of Spayne, or lyuyng in his countreys and profeſſyng obedience to the ſayd kyng, and their goodes, marchaundizes, ſtirres, and veſſels, to be arreſted and ſtayed, to be foorth commyng and aunſwerable, aſwell for the indemnitie of her maieſties ſubiectes alredy, without any iuſt cauſe deteyned, as for other neceſſarie conſequencies: and that alſo in all townes, hauens, and dwellyng places, where any marchauntes borne or profeſſyng the obedience of the ſayde kyng, ſhalle founde to be ſuſpected for conuertyng or conueying of their goodes, by any maner of fraude or colour of bargayne, from the arreſt and ſeaſure therof: there the principall officers of that towne or place, with aſſiſtaunce of others Iuſtices of peace, ſhal proceede to the inquiſition therof by all maner good meanes, and ſhal commit to warde aſwell the parties, of what nation ſoeuer they be, that haue or ſhalbe priuie or aydyng to any fraudulent colouryng, except they ſhall firſt confeſſe the ſame, as alſo the others that haue ſo coloured the ſame, and the goodes to be alſo put in ſafetie. And yet becauſe her maieſtie hath no other meanyng herein, but to haue the perſons of the ſayde kynges ſubiectes and their goodes put in ſafetie by this arreſt, for the preſeruation of her owne good ſubiectes and their goodes, and to be reſpondent for ſuch other diſordered actions as may enſue of theſe ſo ſtraunge and haſty at<g ref="char:EOLhyphen"/>temptes: ſhe wylleth and chargeth all maner her officers, miniſters, and ſubiectes, that no violence be vſed to the hurt of the perſons of any the ſayde kynges ſubiectes by reaſon of this arreſt, without they ſhall by manifeſt wylfull reſiſtaunce prouoke the ſame, neither that any ſpoyle, waſte, or damage be done to their goodes and marchaundizes, but only to cauſe them to be put in good garde and ſafetie. And yf any of the ſayde kynges ſubiectes ſhall chalenge to be exempted out of this arreſt by reaſon they be denizens, her maieſtie in dede hauing no meaning to impeach them therof, and yet for the tyme not knowyng howe in lyke caſes her ſubiectes beyng naturalized in the ſayde kynges countreys, are or ſhalbe vſed: is pleaſed that the ſayde perſons beyng in deede denizens, ſhall but fynde ſufficient ſuer<g ref="char:EOLhyphen"/>ties to be foorth commyng, with their goodes: and yf they ſo wyll not, then they ſhalbe committed to the cuſtody and garde of ſome other Englyſhe marchauntes, and due inuentories taken of their goodes, vntyll knowledge may be had howe her maieſties ſubiectes be or ſhalbe vſed on the other part. And conſideryng alſo her maieſtie vnderſtan<g ref="char:EOLhyphen"/>deth that a number of artificers and other fortes of people, haue ſince the begynnyng of the late inwarde troubles in the lowe countreys, reſorted hyther into her realme for auoydyng of the ſayde troubles, aſwell for their conſcien<g ref="char:EOLhyphen"/>ces, as for the daungers that properly folowe ſuch ciuile troubles: her wyll and pleaſure is, that in all places where ſuche ſhalbe founde to be (beyng of honeſt and quiet conuerſation) and except they ſhalbe participiant to the colou<g ref="char:EOLhyphen"/>ryng of other marchauntes goodes, the ſame ſhall not be moleſted eyther in their perſons or goodes, otherwyſe then where to the officers of the place it ſhall ſo ſeeme nedefull, and there they ſhall geue bondes one for another to be worth commyng, and ſuffer inuentozies to be n<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de of their goodes.</p>
+            <p>
+               <pb facs="tcp:12571:2"/> Furthermore her maieſtie hearing by report, that the arreſt of her ſubiectes on the other ſide the ſeas, ſhoulde <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> vpon a pretence, for ſtaying of one ſhippe and three or foure ſmall barkes, lately come into certayne her portes of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Realme, wherein certayne money was: hath thought good briefely to notifie the circumſtaunce of that pretence, wherby may be ſeene manifeſtly, that the ſame is gathered without iuſt cauſe, and the deuiſers and promoters of the
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, whoſoeuer they were, to haue proceeded bnorderly and vnaduiſedly. Her maieſtie was firſt infourmed by her officers in certaine her portes in the Weſt countrey of this Realme, that three or foure ſmall barkes, called Zabras, were come out of Spayne into certayne portes there, hauing in them a quantitie of money belonging to ſundry marchauntes of Italie and the lowe countreys, and that diuers ſhippes of Fraunce in warlike maner were vpon the came coaſtes, attending to ſurpriſe the ſayde Spaniſhe beſſels and treaſure, if they ſhoulde paſſe to the ſeas, and that it was alſo to be feared, that they woulde enter into the very portes, and take them away by force. Wherevpon her maieſfie did ſende ſtraite commaundement by ſpeciall letters, to all the portes in thoſe Weſt partes, that the mar<g ref="char:EOLhyphen"/>chauntes and owners of thoſe veſſels ſhoulde haue knowledge thereof, and that they and all other the kyng of Spaynes ſubiectes, ſhould be aſſiſted and defended againſt the attemptes of the Frenche, by all meanes poſſible. After which done, the Spaniſhe ambaſſadour here now reſident, made like requeſt to haue newe order for mayntenaunce and aſſiſtaunce of the ſayde veſſels and treaſure againſt the ſayd Frenche, whiche was alſo graunted to hym, and ſe<g ref="char:EOLhyphen"/>uerall letters pattentes to that effect were deliuered to his owne meſſengers. And a whyle after this, he requiring of the Queenes maieſtie, to vnderſtande her pleaſure, whether ſhe woulde be content that the owners and conduc<g ref="char:EOLhyphen"/>ters of the ſayde treaſure might be eyther conducted by ſea or by lande to Douer, pretending the money to apper<g ref="char:EOLhyphen"/>tayne to the kyng his maiſter: her maieſtie graunted to him, that whiche ſoeuer of theſe two wayes he would deſire, ſhoulde be foorthwith directed for hym, whereof he thanked her maieſtie, ſaying that he woulde ſtay vntyll he might ſende into the lowe countreys, and haue worde from the Duke of Alua, whiche of thoſe two wayes he woulde haue
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t tranſported. In the meane tyme, her maieſtie was infourmed that the Frenche had ſecretely in the night entred into one of her hauens in the Weſt, where the ſayde treaſure was, and had attempted the ſurpriſe thereof, but were onlye repulſed by ſuche force as her maieſties officers had in redineſſe for that purpoſe: a matter notorious to all the partes where the ſayde ſhippes were aſſaulted, and well reported alſo to the ambaſſadour. Wherevpon, con<g ref="char:EOLhyphen"/>ſidering howe doubtfull and there with chargeable a matter it was, from tyme to tyme to preſerue the ſame lying a<g ref="char:EOLhyphen"/>biode in the hauens: it was thought beſt euen for the honour of the Realme, that the ſayde treaſure ſhould be taken en lande, and there ſafely preſerued in the ſight and preſence of them that had the charge thereof, without touching or withdrawing any part of the ſame. And being then certaynely knowen to belong vnto marchauntes, it was alſo thought, after the due preſeruation thereof from the perill of the ſeas, not an vnreaſonable motion, nor againſt the honorable vſage of princes in their owne dominions, to treate with the owners with their good contentation, and not otherwyſe, to borowe it or ſome part therof, vpon lyke good aſſuraunce and conditions, as her maieſtie hath oftentymes borowed of other marchauntes, ſubiectes to the ſayde kyng in his owne lowe countreys, and as other princes haue done lately in the very lyke caſes. The lyke maner was vſed to wardes a ſhip lying neare Southamp<g ref="char:EOLhyphen"/>ten laden with wolles, and wherin alſo treaſure was, and in apparaunt daunger of Frenchmen houering vpon that coaſt, who had made great offers to the officers there, onlye to withdrawe their defence: for whiche purpoſe, her ma<g ref="char:EOLhyphen"/>ieſtie ſent her captayne of the Iſle of Wight for ſecuritie, to haue the ſame likewiſe preſerued from the Frenche, and to be taken on lande: as if it had not ben, the Frenche had taken it within foure and twentie houres after, whiche alſo was knowen to belong vnto marchauntes, and ſo is to be notoriouſly proued. And before the ſayde captayne had taken care to ſee the ſame preſerued, it is knowen what ſummes of money were offred to hym, to haue only left the ſhip wherin the woolles were, after the money taken on land, remayning to be vndefended: which the ſayd captayne woulde not ſuffer, but armed certayne ſouldiers to very great charges by ſea, whiche preſently yet do continue to garde the ſayde ſhip. And during this time, whyleſt this was in ordering, the Spaniſhe ambaſſadour came to her ma<g ref="char:EOLhyphen"/>ieſtie about the .xxix. of December, bryngyng with hym from the Duke of Alua a ſhort letter, only of credence, &amp; ther<g ref="char:EOLhyphen"/>vpon required, that the veſſels and money ſtayed in the portes might be put to libertie, as belonging to the uyng his maiſter. To whom her maieſtie aunſwered, that ſhe had in her doynges (if it were the kynges) ſhewed hym great pleaſure to ſaue it from the Frenche, ſhe wing hym therin ſome particularities of the diligence of her officers, but ſhe was infourmed that it belonged to marchauntes, and herein within foure or fiue dayes ſhe ſhoulde vnderſtande
+<pb facs="tcp:12571:3"/>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be herein done, that in reaſon ſhoulde miſcontent <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er good
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or ſiue dayes at his next commyng. And ſo be
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, not
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but to alowe of the a<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>were. And her maieſtie in the meane tyme hauyng accordyng to <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> expectation
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> from the weſt countrey, wherevpon ſhe intended to haue ſatiſfied the ambaſſadour at his
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> (which ſhe
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to her appoyntment) not only for the deliuery of the ſayde ſhippes and trea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, for ſuch portion <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> myght appeare to belong to the ſayde kyng: but alſo to haue perfourmed her firſt o<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e to <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> con<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uct for the ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me by lande or by ſea. The firſt intelligence brought to her maieſtie (without any
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the ambe<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>adour) was, that all her ſubiectes, goodes, marchaundizes, and ſhippes, were arreſted, taken, <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> at
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, the very ſame preſent xxix. day that the ambaſſadour was with her maieſtie, ſo <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſalleth out to euery mans vnderſtandyng, that howeſoeuer her maieſtie had then ſatiſfied the ambaſſadour <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſame xxix. day, all her ſubiectes and their goodes had ben neuertheleſſe arreſted, as they were at Indwerpe the <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> day. Wherevpon her maieſtie nowe leaueth it to the indgement of all the worlde, to conſider not only whether
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a pretence was ſufficient to cauſe ſo ſodaine, ſo violent, and ſo generall arreſt to be made with force, in ſuch ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, and at the tyme it was: but alſo in whom any default ſhalbe founde, whatſoueuer may folowe hereof, her ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> hauyng had no intention to miſcontent the kyng of Spayne, nor to poſſeſſe any thyng belongyng to di<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ub<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s, otherwiſe then with their good wyll, vpon iuſte, reaſonable, and vſuall con<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tions. And thus much<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> her <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hath thought conuenient to notifie to all perſons, for teſtimonie of her ſinceritie, and for maintenaunce of tractions, whatſoeuer they ſhalbe, whervnto ſhe may by this meanes be prouoked.</p>
+            <closer>
+               <dateline>At Hampton Court
+<date>the vi. of January, the xi. yere of her maieſties raigne, and the yere of our Lorde.
+<hi>1568.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London in Powles Church <hi>yarde by Richarde Jugge and John Cawood, Printers to the</hi> Queenes Maieſtie.</p>
+         </div>
+         <div type="privilege">
+            <p>
+               <hi>Cum priuilegio Regiae Maieſtatis.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
